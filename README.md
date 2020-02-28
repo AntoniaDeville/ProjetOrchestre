@@ -13,5 +13,6 @@ Mise à jour et sauvegarde sur Git :
 1) Se mettre sur le projet : cd ProjetOrchestre
 2) git add .
 3) git commit -m "message"
-4) git push origin master
+4) git push origin master 
+(Si problème = "git pull --rebase origin master" puis "git push origin master")
 
