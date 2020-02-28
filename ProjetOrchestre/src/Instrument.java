@@ -1,5 +1,6 @@
 
-// On créait une interface pour les instruments 
+// On créait une interface qui sera implémentée pour tous les instruments 
+
 // Design Pattern = Factory
 
 public interface Instrument {
