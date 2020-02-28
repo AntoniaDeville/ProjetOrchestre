@@ -1,6 +1,6 @@
 // Création d'une classe pour les instruments de type Violon
 
-public class Violon implements Instrument {
+public class Violon implements Musiciens {
 	
 	// Action héritée de l'interface Instrument
 	@Override

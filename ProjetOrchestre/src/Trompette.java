@@ -1,5 +1,5 @@
 // Création de la classe Trompette
-public class Trompette implements Instrument {
+public class Trompette implements Musiciens {
 
 	// Action héritée de l'interface Instrument
 	@Override
